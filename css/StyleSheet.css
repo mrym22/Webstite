@@ -1,0 +1,15 @@
+﻿.header {
+    height:50px;
+    background-color:#0094ff;
+}
+
+.footer {
+    height:50px;
+    width:80%;
+    background-color:#ffd800;
+    margin-left:10%;
+}
+
+    .footer h3 {
+        text-align:center;
+    }
